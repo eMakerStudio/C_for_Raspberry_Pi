@@ -9,10 +9,7 @@
  * call each other. This permits a natural and intuitive representation of
  * computer/user choice making process. (However it is ridiculously inefficient.)
  *
- * There are shorter, simpler, much more efficient solutions than this
- * to the Tic-Tac-Toe problem.
- *
- * Tim Bailey 2004. */
+ */
 
 static int get_computer_decision_set(int state[], int bestset[]);
 static void recurse_search(int state[], int choice, enum Turn turn, enum Result *worst);
