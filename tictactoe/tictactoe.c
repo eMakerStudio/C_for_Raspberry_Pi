@@ -1,6 +1,4 @@
-/* This program plays a game of tic-tac-toe with the computer.
- * Tim Bailey 2003.
- */
+/* This program plays a game of tic-tac-toe against the computer. */
 #include <stdio.h>
 #include <assert.h>
 #include "playgame.h"
