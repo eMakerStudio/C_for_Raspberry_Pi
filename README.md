@@ -1,5 +1,5 @@
 # Repository for the book:
 
-## Raspberry Py and C Programming
+## Raspberry Pi and C Programming
 
 ### C Programming Basics & Hands On Projects
