@@ -1,4 +1,4 @@
-# Repository for the FREE eBook:
+# Repository for the FREE eBook & Online Course:
 
 ## Raspberry Pi and C Programming
 
