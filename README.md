@@ -1,5 +1,5 @@
-# Repository for the book:
+# Repository for the FREE eBook:
 
 ## Raspberry Pi and C Programming
 
-### C Programming Basics & Hands On Projects
+### available here: embedded.goprogramming.space
