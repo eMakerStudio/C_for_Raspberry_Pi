@@ -1,5 +1,6 @@
-# Repository for the FREE eBook & Online Course:
+# Repository for the eBook & Online Course:
 
 ## Raspberry Pi and C Programming
 
-### available here: embedded.goprogramming.space
+# Grab this Coupon and claim your spot in the Course:
+## https://www.udemy.com/introduction-to-c-programming-for-the-raspberry-pi/?couponCode=ADS_RPI_10
