@@ -1,3 +1,3 @@
-# Repository for the eBook & Online Course:
+# Repository for the eBook
 
 ## Raspberry Pi and C Programming
